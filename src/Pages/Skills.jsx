@@ -13,12 +13,12 @@ const skills = [
   { name: 'JavaScript', icon: <FaJs className="text-yellow-400" /> },
   { name: 'React', icon: <FaReact className="text-cyan-400" /> },
   { name: 'Tailwind CSS', icon: <SiTailwindcss className="text-sky-400" /> },
-  { name: 'Git', icon: <FaGitAlt className="text-red-500" /> },
+  { name: 'Responsive Design', icon: <FaMobileAlt className="text-green-500" /> },
   { name: 'GitHub', icon: <FaGithub className="text-gray-800 dark:text-white" /> },
   { name: 'Bootstrap', icon: <FaCss3Alt className="text-purple-600" /> },
   { name: 'Redux', icon: <FaReact className="text-purple-400" /> },
   { name: 'VS Code', icon: <FaLaptopCode className="text-blue-500" /> },
-  { name: 'Responsive Design', icon: <FaMobileAlt className="text-green-500" /> },
+  { name: 'Git', icon: <FaGitAlt className="text-red-500" /> },
   { name: 'Figma', icon: <FaPenNib className="text-pink-500" /> },
 ];
 
