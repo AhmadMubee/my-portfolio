@@ -14,7 +14,7 @@ const projects = [
       'A clean and responsive portfolio made to show my skills, projects, and contact details in one place.',
     tech: ['React', 'Tailwind CSS'],
     image: Portfolio,
-    link: 'https://your-portfolio.vercel.app/',
+    link: 'https://my-portfolio-three-ruddy-97.vercel.app/',
   },
   {
     title: 'FitClub-Starter Website',
